@@ -1,1 +1,20 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>TVox Team</title>
+    <description>Most recent updates to TVox Team</description>
+    <language>en</language>
+    <item>
+      <title>Version 4.3.4+0</title>
+      <pubDate>Fri, 7 Aug 2026 16:00:00 +0000</pubDate>
+      <enclosure
+        url="//https://github.com/teleniasoftware/TVox-Team-Releases/releases/download/4.3.4+0/TVoxTeam-Release-4.3.4+0-Setup.exe"
+        sparkle:dsaSignature="MDwCHB2qUa0OHXVB6/QsgB6/UBZqyQPrUHNTB22GZ3ICHBDLqV8gNTyelagwCyGGUsORsM9NZcNClQvJLHA="
+        sparkle:version="4.3.4+0"
+        sparkle:os="windows"
+        length="0"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
