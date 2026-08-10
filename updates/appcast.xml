@@ -10,7 +10,7 @@
       <pubDate>Fri, 7 Aug 2026 16:00:00 +0000</pubDate>
       <enclosure
         url="//https://github.com/teleniasoftware/TVox-Team-Releases/releases/download/4.3.5+0/TVoxTeam-Release-4.3.5+0-Setup.exe"
-        sparkle:dsaSignature="MDwCHEdXpx15Ewd98YZhVzAdd7+iQjOIiNDxDv/k4hsCHDNoM4mG19lUdJinhqULR9jfG1h"
+        sparkle:dsaSignature="MDwCHEdXpx15Ewd98YZhVzAdd7+iQjOIiNDxDv/k4hsCHDNoM4mG19lUdJinhqULR9jfG1h+rVjsewlWoTo="
         sparkle:version="4.3.5+0"
         sparkle:os="windows"
         length="0"
