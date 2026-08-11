@@ -6,12 +6,12 @@
     <description>Most recent updates to TVox Team</description>
     <language>en</language>
     <item>
-      <title>Version 4.3.5+0</title>
-      <pubDate>Mon, 10 Aug 2026 16:00:00 +0000</pubDate>
+      <title>Version 4.3.5</title>
+      <pubDate>Tue, 11 Aug 2026 17:30:00 +0000</pubDate>
       <enclosure
-        url="//https://github.com/teleniasoftware/TVox-Team-Releases/releases/download/4.3.5+0/TVoxTeam-Release-4.3.5+0-Setup.exe"
-        sparkle:dsaSignature="MDwCHEdXpx15Ewd98YZhVzAdd7+iQjOIiNDxDv/k4hsCHDNoM4mG19lUdJinhqULR9jfG1h+rVjsewlWoTo="
-        sparkle:version="4.3.5+0"
+        url="https://github.com/teleniasoftware/TVox-Team-Releases/releases/download/4.3.5/TVoxTeam-Release-4.3.5-Setup.exe"
+        sparkle:dsaSignature="MDwCHF1On5PgddOo+skCg9Eqovowjp4cgiZUxqjmVqoCHHA4Us32dk2zUi1GyawKjdh5fqcZjgwVupcBJpQ="
+        sparkle:version="4.3.5"
         sparkle:os="windows"
         length="0"
         type="application/octet-stream" />
