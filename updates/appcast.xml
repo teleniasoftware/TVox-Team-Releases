@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>TVox Team</title>
     <description>Most recent updates to TVox Team</description>
     <language>en</language>
+
     <item>
-      <title>Version 4.3.12+0</title>
-      <pubDate>Tue, 18 Sep 2026 14:30:00 +0000</pubDate>
+      <title>Version 1.0.0+2</title>
+      <pubDate>Thu, 24 Sep 2026 8:30:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/teleniasoftware/TVox-Team-Releases/releases/download/4.3.12+0/TVoxTeam-Release-4.3.12+0-Setup.exe"
-        sparkle:dsaSignature="MDwCHF+CcNbs3l6EeYY7dVCKpxfkOADMkH0ioyt7e6QCHE40njadBNGF4I4+FmV3mGu9O9KJNdR4hnN//ko="
-        sparkle:version="4.3.12+0"
+        url="https://github.com/teleniasoftware/TVox-Team-Releases/releases/download/1.0.0+2/TVoxTeam-Release-1.0.0+2-Setup.exe"
+        sparkle:dsaSignature="MDwCHCO+219GX/QkrZsA0zkppRV0e8vQlRLe32guBQwCHERfuldvB4TvZMBxEws3LQG/cUovF5Vcf2CFpxM="
+        sparkle:version="1.0.0+2"
         sparkle:os="windows"
-        length="0"
-        type="application/octet-stream" />
+        length="41824096"
+        type="application/octet-stream"
+      />
     </item>
+
   </channel>
 </rss>
