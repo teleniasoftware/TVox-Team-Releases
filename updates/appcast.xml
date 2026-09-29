@@ -7,14 +7,14 @@
     <language>en</language>
 
     <item>
-      <title>Version 1.0.0+2</title>
+      <title>Version 1.0.1+0</title>
       <pubDate>Thu, 24 Sep 2026 8:30:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/teleniasoftware/TVox-Team-Releases/releases/download/1.0.0+2/TVoxTeam-Release-1.0.0+2-Setup.exe"
-        sparkle:dsaSignature="MDwCHCO+219GX/QkrZsA0zkppRV0e8vQlRLe32guBQwCHERfuldvB4TvZMBxEws3LQG/cUovF5Vcf2CFpxM="
-        sparkle:version="1.0.0+2"
+        url="https://github.com/teleniasoftware/TVox-Team-Releases/releases/download/1.0.1+0/TVoxTeam-Release-1.0.1+0-Setup.exe"
+        sparkle:dsaSignature="MD0CHHdtQoFI6cGb0wqWCeSI0nMrzUHwVkaCaM04l0sCHQCsnSFlsG4x5gmrY8KytAguRcooRnEQxwx28ShE"
+        sparkle:version="1.0.1+0"
         sparkle:os="windows"
-        length="41824096"
+        length="0"
         type="application/octet-stream"
       />
     </item>
